@@ -65,11 +65,11 @@ LEAGUES = [
     (779, "United States", "Major League Soccer"),
     (944, "Saudi Arabia", "Pro League"),
     (651, "Brazil", "Serie B"),
-    (1034, "South Korea", "K League 1"),
+    (474, "Romania", "Superliga"),
     (12, "England", "League One"),
     (14, "England", "League Two"),
     # ID was NOT supplied for Eerste Divisie - assumed, the verifier will tell you if it is wrong
-    (79, "Netherlands", "Eerste Divisie"),
+    (465, "Portugal", "Liga Portugal 2"),
     (242, "Croatia", "1. HNL"),
     (262, "Czech Republic", "Chance Liga"),
 ]
