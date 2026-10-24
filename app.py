@@ -62,11 +62,11 @@ LEAGUES = [
     (806, "South Africa", "Premier League"),
     (1064, "Thailand", "Thai Premier League"),
     (743, "Mexico", "Liga MX"),
-    (334, "NB 1", "Hungary"),
+    (334, "NB I", "Hungary"),
     (944, "Saudi Arabia", "Pro League"),
     (696, "Ecuador", "Liga Pro"),
     (474, "Romania", "Superliga"),
-    (531, "League", "Super Liga"),
+    (531, "Serbia", "Super Liga"),
     (229, "Bulgaria", "First League"),
     # ID was NOT supplied for Eerste Divisie - assumed, the verifier will tell you if it is wrong
     (465, "Portugal", "Liga Portugal 2"),
