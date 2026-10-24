@@ -70,7 +70,7 @@ LEAGUES = [
     (14, "England", "League Two"),
     # ID was NOT supplied for Eerste Divisie - assumed, the verifier will tell you if it is wrong
     (465, "Portugal", "Liga Portugal 2"),
-    (242, "Croatia", "1. HNL"),
+    (244, "Croatia", "1. HNL"),
     (262, "Czech Republic", "Chance Liga"),
 ]
 ASSUMED_IDS = {79}
