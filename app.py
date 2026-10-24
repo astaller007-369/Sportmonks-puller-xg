@@ -62,7 +62,7 @@ LEAGUES = [
     (806, "South Africa", "Premier League"),
     (1064, "Thailand", "Thai Premier League"),
     (743, "Mexico", "Liga MX"),
-    (334, "NB I", "Hungary"),
+    (334, "Hungary", "NB I"),
     (944, "Saudi Arabia", "Pro League"),
     (696, "Ecuador", "Liga Pro"),
     (474, "Romania", "Superliga"),
