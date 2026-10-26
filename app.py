@@ -68,6 +68,8 @@ LEAGUES = [
     (474, "Romania", "Superliga"),
     (531, "Serbia", "Super Liga"),
     (229, "Bulgaria", "First League"),
+    (540, "Slovakia", "Niké Liga"),
+    (292, "Finland", "Veikkausliiga"),
     # ID was NOT supplied for Eerste Divisie - assumed, the verifier will tell you if it is wrong
     (465, "Portugal", "Liga Portugal 2"),
     (244, "Croatia", "1. HNL"),
